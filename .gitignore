@@ -1,0 +1,18 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local application settings (may contain personal folder paths)
+folders.json
+
+# Build and packaging output
+build/
+dist/
